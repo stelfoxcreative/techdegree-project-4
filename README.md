@@ -1,5 +1,10 @@
 # Project 4 - Interactive Photo Gallery
 
+## Project overview
+In this project you have to use a jQuery plugin to achieve lightbox functionality.
+
+A plugin could also be used for the live search feature. To get an exceed you need to use custom vaniall javaScript to achieve the same results.
+
 ## Useful Links
 
 ### Video
